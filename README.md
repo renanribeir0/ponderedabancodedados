@@ -1,3 +1,8 @@
+Link do site: http://ec2-54-156-52-197.compute-1.amazonaws.com/SamplePage.php
+Link do vídeo: https://drive.google.com/file/d/1NK-Ll4FRxVAZgZgNiR4OtGpt-na-w7oB/view?usp=sharing
+
+
+
 Executar um instância no EC2:
 
 1. Entre no site (https://www.awsacademy.com/vforcesite/LMS_Login) e crie ou realize login.
@@ -44,6 +49,7 @@ Executar um instância no EC2:
 
 
 
+
 Criar uma instância de banco de dados
 
 Criaremos uma instância de banco de dados na AWS
@@ -82,53 +88,6 @@ Criaremos uma instância de banco de dados na AWS
 <img width="578" alt="image" src="https://github.com/renanribeir0/ponderedabancodedados/assets/110369271/72086e4f-c1ce-4deb-9fbe-0eef1903e68f">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Instalando um servidor web na instância EC2.
 
 1. Usando o comando: ssh -i /caminho/para/sua-chave.pem ec2-user@ecEndereço IPv4 público da instância.compute-1.amazonaws.com, no cmd.
@@ -162,6 +121,10 @@ Para definir as permissões de arquivos para o servidor na web Apache
 
 10. Faça login novamente e verifique se o grupo apache existe com o comando para windows: whoami /groups
 <img width="960" alt="image" src="https://github.com/renanribeir0/ponderedabancodedados/assets/110369271/a10f0241-b895-406f-b0ba-33efe24029a0">
+
+
+
+
 
 
 
