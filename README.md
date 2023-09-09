@@ -7,8 +7,6 @@ Link do vídeo: https://drive.google.com/file/d/1NK-Ll4FRxVAZgZgNiR4OtGpt-na-w7o
 
 
 
-
-
 Executar um instância no EC2:
 
 1. Entre no site (https://www.awsacademy.com/vforcesite/LMS_Login) e crie ou realize login.
